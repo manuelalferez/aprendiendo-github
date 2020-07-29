@@ -6,7 +6,7 @@
 4. [Objetivo de Asteroids](#Objetivo-de-Asteroids)
 5. [Pantallas del juego](#Pantallas-del-juego)
    1. [Objetos del juego](##Objetos-del-juego)
-   2. [Pantalla inicial](##Pantalla-inicial)
+   2. [Pantalla inicial](##sfsdPantalla-inicial)
    3. [Fin de la partida](##Fin-de-la-partida)
 6. [Cómo jugar](#Cómo-jugar)
 7. [Diviértete](#Diviértete)
