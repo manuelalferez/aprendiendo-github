@@ -34,7 +34,7 @@ Para hacer un uso correcto y eficaz de los controles para evitar colisionar con 
 * Barra espaciadora  : disparar
 
 
-#Obejtivo de Asteroids
+# Obejtivo de Asteroids
 
 
 
