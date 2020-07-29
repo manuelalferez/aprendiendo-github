@@ -35,7 +35,7 @@ Para hacer un uso correcto y eficaz de los controles para evitar colisionar con 
 * Flecha derecha   →: girar hacia la derecha
 * Barra espaciadora  : disparar
 
-
+sdsaasfd
 
 
 
