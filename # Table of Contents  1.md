@@ -7,11 +7,11 @@
 5. [Pantallas del juego](#Pantallas-del-juego)
    1. [Objetos del juego](##Objetos-del-juego)
    2. [Pantalla inicial](##sfsdPantalla-inicial)
-   3. [Fin de la partida](##Fin-de-la-partida)
+   3. [Fin de la partida](##asdfsfadFin-de-la-partida)
 6. [Cómo jugar](#Cómo-jugar)
 7. [Diviértete](#Diviértete)
 
-
+asdf
 
 # Descripción	
 **Asteroids,** es un juego arcade donde el principal objetivo del juego es disparar con el láser a los asteroides evitando colisionar con ellos y sus fragmentos.
