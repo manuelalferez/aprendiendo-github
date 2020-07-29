@@ -60,3 +60,4 @@ Una vez consumidas las 3 vidas terminará la partida lo que conlleva que se rein
 Con todos los pasos solo nos queda disfrutar jugar a Asteroids. Intentad conseguir la máxima puntuación llegando al máximo nivel posible, siendo los reyes del Asteroids. 
 
 
+sadf
