@@ -1,7 +1,3 @@
-
-
-
-
 # Table of Contents
 
 1. [Descripción](#Descripción)
@@ -35,10 +31,32 @@ Para hacer un uso correcto y eficaz de los controles para evitar colisionar con 
 
 
 # Objetivo de Asteroids
-  El objetivo es sobrevivir el máximo tiempo posible y obtener la máxima puntuación posible destruyendo todos los asteroides con el láser, sin que estos colisionan contra nuestra nave. 
+El objetivo es sobrevivir el máximo tiempo posible y obtener la máxima puntuación posible destruyendo todos los asteroides con el láser, sin que estos colisionan contra nuestra nave. 
 Hay que tener en cuenta que un asteroide de mayor tamaño se fracciona en asteroides más pequeños al ser alcanzado por el láser.
 Tendremos como máximo 3 intentos o vidas en cada partida.
 
 
+# Pantallas del juego
+
+## Objetos del juego
+Se puede observar en la imagen todas las partes que forman nuestro juego.
+
+## Pantalla inicial
+Pantalla inicial al iniciar el juego, empezamos en el nivel 1, a medida que destruyamos los asteroides el nivel se va incrementando
+
+## Fin de la partida
+Una vez consumidas las 3 vidas terminará la partida lo que conlleva que se reinicialice a cero la puntuación actual.
+
+
+# Cómo jugar
+* Una vez iniciado el juego según lo descrito en el apartado 2. Podemos empezar a disfrutar de la experiencia del juego.
+* Aparecerá la nave en el punto central del juego junto con los asteroides en movimiento.
+* Tendremos 3 vidas en cada partida y comenzaremos en el nivel 1.
+* Si se produce una colisión con vidas disponibles se restará una vida,  se reinicializa la nave en la posición inicial. Tendremos unos segundos en el cual la nave parpadeara y aunque nos posicionamos sobre algún asteroide no habrá colisión.
+* A medida que vamos avanzando de nivel el  número de asteroides se va incrementando como la velocidad que se mueven por el espacio.
+
+
+# Diviértete
+Con todos los pasos solo nos queda disfrutar jugar a Asteroids. Intentad conseguir la máxima puntuación llegando al máximo nivel posible, siendo los reyes del Asteroids. 
 
 
