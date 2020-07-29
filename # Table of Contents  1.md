@@ -5,7 +5,7 @@
 # Table of Contents
 
 1. [Descripción](#Descripción)
-2. [Inicio y ejecución](#Inicio_y_ejecución)
+2. [Inicio y ejecución](#Inicio-y-ejecución)
 3. [Controles básicos](#Controles básicos)
 4. [Objetivo de Asteroids](#Objetivo de Asteroids)
 5. [Pantallas del juego](#Pantallas del juego)
@@ -21,7 +21,7 @@
 **Asteroids,** es un juego arcade donde el principal objetivo del juego es disparar con el láser a los asteroides evitando colisionar con ellos y sus fragmentos.
 
 
-#  Inicio_y_ejecución
+#  Inicio y ejecución
 Para ejecutar el juego descargar el archivo Asteroids.zip y descomprimirlo. Abrir el directorio Asteroids y hacer doble click sobre **Asteroids.html**. Se abrirá con el navegador que utilice por defecto. No es necesario instalar ningún programa complementario, solamente tener un navegador instalado. 
 
 
