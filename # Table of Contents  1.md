@@ -35,6 +35,9 @@ Para hacer un uso correcto y eficaz de los controles para evitar colisionar con 
 
 
 # Objetivo de Asteroids
+&nbsp;El objetivo es sobrevivir el máximo tiempo posible y obtener la máxima puntuación posible destruyendo todos los asteroides con el láser, sin que estos colisionan contra nuestra nave. 
+Hay que tener en cuenta que un asteroide de mayor tamaño se fracciona en asteroides más pequeños al ser alcanzado por el láser.
+Tendremos como máximo 3 intentos o vidas en cada partida.
 
 
 
